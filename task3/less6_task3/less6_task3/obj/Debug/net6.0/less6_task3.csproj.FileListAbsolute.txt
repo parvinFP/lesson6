@@ -1,0 +1,15 @@
+D:\projects\codeacademy\task3\less6_task3\less6_task3\bin\Debug\net6.0\less6_task3.exe
+D:\projects\codeacademy\task3\less6_task3\less6_task3\bin\Debug\net6.0\less6_task3.deps.json
+D:\projects\codeacademy\task3\less6_task3\less6_task3\bin\Debug\net6.0\less6_task3.runtimeconfig.json
+D:\projects\codeacademy\task3\less6_task3\less6_task3\bin\Debug\net6.0\less6_task3.dll
+D:\projects\codeacademy\task3\less6_task3\less6_task3\bin\Debug\net6.0\ref\less6_task3.dll
+D:\projects\codeacademy\task3\less6_task3\less6_task3\bin\Debug\net6.0\less6_task3.pdb
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.csproj.AssemblyReference.cache
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.AssemblyInfoInputs.cache
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.AssemblyInfo.cs
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.csproj.CoreCompileInputs.cache
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.dll
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\ref\less6_task3.dll
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.pdb
+D:\projects\codeacademy\task3\less6_task3\less6_task3\obj\Debug\net6.0\less6_task3.genruntimeconfig.cache
